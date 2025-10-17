@@ -1,10 +1,6 @@
-\#Titolo della nota
-
-
+\# Titolo della nota
 
 ---
-
-
 
 Questa è una lista semplice
 
@@ -26,11 +22,11 @@ Questa è una tabella:
 
 
 
-|Nome|Cognome|Mail|
+| Nome | Cognome | Mail |
 
-|------||------||------|
+| ---- | ------- | ---- |
 
-|Luca|Sacchi|lucasacchi@gmail.com
+| Luca| Sacchi | lucasacchi@gmail.com
 
 
 
