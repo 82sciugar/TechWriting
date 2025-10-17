@@ -26,7 +26,7 @@ Questa è una tabella:
 
 | ---- | ------- | ---- |
 
-| Luca| Sacchi | lucasacchi@gmail.com
+| Luca| Sacchi | lucasacchi@gmail.com |
 
 
 
