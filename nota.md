@@ -1,4 +1,4 @@
-\# Titolo della nota
+\#Titolo della nota
 
 
 
@@ -26,7 +26,11 @@ Questa è una tabella:
 
 
 
-| Nome | Mail | Peso |
+|Nome|Cognome|Mail|
+
+|------||------||------|
+
+|Luca|Sacchi|lucasacchi@gmail.com
 
 
 
