@@ -1,4 +1,4 @@
-\# Titolo della nota
+# Titolo della nota
 
 ---
 
@@ -8,24 +8,16 @@ Questa è una lista semplice
 * due
 * tre
 
-
-
 Questa è una lista numerata:
 
 1. uno
 2. due
 3. tre
 
-
-
 Questa è una tabella:
 
-
-
 | Nome | Cognome | Mail |
-
 | ---- | ------- | ---- |
-
 | Luca| Sacchi | lucasacchi@gmail.com |
 
 
